@@ -1,0 +1,1 @@
+# compile-syncthing-macos
