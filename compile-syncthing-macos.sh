@@ -3,8 +3,8 @@
 #set versions here, use actual tag names (including the "v") get from
 #https://github.com/syncthing/syncthing/tags
 #https://github.com/syncthing/syncthing-macos/tags
-ST_TAG='v1.23.7'
-STM_TAG='v1.23.6-1'
+ST_TAG='v1.27.3'
+STM_TAG='v1.27.3-1'
 
 BUILD_DIR="$HOME/Downloads"
 STM_REPO='syncthing/syncthing-macos'
